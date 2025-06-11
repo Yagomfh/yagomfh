@@ -2,7 +2,6 @@
 
 <div align="center">
 <img width="290" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagomfh&theme=merko&layout=compact&hide=M,Ruby,c%2B%2B,MATLAB">
-<img width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=yagomfh&theme=merko&show_icons=true&hide=stars,prs,issues">
 </div>
 
 # <div align="center"> You can also find me here: </div>
